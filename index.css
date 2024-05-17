@@ -5,7 +5,7 @@
   justify-content: center;
 }
 body{
-  background: url("backcover.jpg");
+  background:"backcover.jpg";
   background-repeat: no-repeat;
   background-size: cover;
 }
